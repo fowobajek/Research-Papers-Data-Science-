@@ -1,0 +1,17 @@
+# Restricted-access survey microdata and derived records
+*.sav
+*.dta
+*.sas7bdat
+*.rds
+*.RData
+*.Rhistory
+*.Rproj.user/
+data/
+output/
+cache/
+*.zip
+.env
+.env.*
+**/secrets/
+**/credentials*
+.DS_Store
